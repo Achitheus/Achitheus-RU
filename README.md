@@ -15,10 +15,10 @@ QAA engineer, контрибьютор во фреймворки тестиро�
 
 
 # 🛠 Навыки
-*   Java (также немного работал с C++)
-*   Selenium, Selenide, TestNG, JUnit5, Rest Assured, Cucumber
-*   Maven, git, Allure, Linux
-*   CI/CD (GitHub Actions)
+*   Java (немного работал с C++, Python)
+*   Selenium, Selenide, Selenoid, GGR, TestNG, JUnit5, Rest Assured, Cucumber
+*   Maven, Gradle, Docker, git, Allure, Linux bash
+*   CI/CD (GitHub Actions, TeamCity)
 *   SQL
 # Контрибьюты во фреймворки тестирования
 
